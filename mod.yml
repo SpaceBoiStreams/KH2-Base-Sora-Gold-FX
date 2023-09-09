@@ -1,0 +1,45 @@
+title: Gold Base Sora FX
+description: A simple mod that changes the textures for Sora's base combo modifier FX from white to gold. (I.E. the Explosion FX)
+assets:
+#PC ONLY
+#BASE
+- name: remastered\obj\P_EX100.a.us/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold Sora FX/-0.dds
+- name: remastered\obj\P_EX100.a.us/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold Sora FX/-1.dds
+- name: remastered\obj\P_EX100.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold Sora FX/-2.dds
+- name: remastered\obj\P_EX100.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold Sora FX/-3.dds
+- name: remastered\obj\P_EX100.a.us/-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold Sora FX/-4.dds
+- name: remastered\obj\P_EX100.a.us/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold Sora FX/-5.dds
+- name: remastered\obj\P_EX100.a.us/-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold Sora FX/-6.dds
+- name: remastered\obj\P_EX100.a.us/-7.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold Sora FX/-7.dds
